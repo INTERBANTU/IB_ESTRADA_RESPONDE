@@ -68,6 +68,8 @@ As imagens abaixo mostram a resposta detalhada sobre o Artigo 127 do Código da 
 
 ![Artigo 127 - Carta de Condução - Parte 2](client/public/IB_ESTRADA_RESPONDE/02%20-%20Artigo%20127%20-%20Carta%20de%20Condu%C3%A7%C3%A3o%20-%20P2.png)
 
+📄 **Para conferir o documento oficial completo:** [Decreto-Lei n.º 1/2011 - Código da Estrada](https://www.imahanjane.co.mz/wp-content/uploads/2021/03/Decreto-Lei-n-01.2011-Aprova-o-Codigo-da-Estrada.pdf)
+
 **Detalhes da Resposta:**
 - Artigo 127 do Código da Estrada
 - Número específico da infração
