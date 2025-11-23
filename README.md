@@ -103,6 +103,42 @@ O sistema fornece uma resposta abrangente sobre limites de velocidade e multas r
 
 ---
 
+## 👨‍💼 Painel do Gestor
+
+### 5️⃣ Login como Gestor
+
+O gestor tem acesso ao painel de gerenciamento de documentos, permitindo fazer upload e gerenciar a base de conhecimento do sistema.
+
+![Login Gestor](https://raw.githubusercontent.com/INTERBANTU/CHAT_CODIGO_DE_ESTRADA/main/docs/IB_ESTRADA_RESPONDE/gestor/00%20-%20Login%20Gestor.png)
+
+**Credenciais de teste:**
+- **Email**: `gestor@interbantu.com`
+- **Senha**: `gestor2024`
+
+---
+
+### 6️⃣ Gerenciamento de Documentos
+
+O painel do gestor permite gerenciar toda a base de conhecimento do sistema, incluindo upload de novos documentos PDF e visualização dos documentos já processados.
+
+![Painel do Gestor - Gerenciamento de Documentos](https://raw.githubusercontent.com/INTERBANTU/CHAT_CODIGO_DE_ESTRADA/main/docs/IB_ESTRADA_RESPONDE/gestor/01%20-%20Tela%20para%20gerenciar%20documentos%20da%20base%20de%20conhecimento.png)
+
+**Funcionalidades do Gestor:**
+- **Upload de Documentos**: Fazer upload de PDFs com decretos e legislação de trânsito
+- **Visualização de Documentos**: Ver todos os documentos processados na base de conhecimento
+- **Estatísticas**: Acompanhar o número de documentos e segmentos processados
+- **Remoção de Documentos**: Gerenciar e remover documentos quando necessário
+- **Acesso ao Assistente Virtual**: O gestor também pode usar o assistente virtual para fazer perguntas
+
+**Processo de Upload:**
+1. Clique em "Fazer Upload" no painel do gestor
+2. Selecione arquivos PDF (ex: Decreto-Lei n.º 1/2011 - Código da Estrada)
+3. Aguarde o processamento automático
+4. O sistema divide os documentos em segmentos para busca eficiente
+5. Os documentos ficam disponíveis para consulta no assistente virtual
+
+---
+
 ## 🔄 Fluxo Completo do Sistema
 
 ```
