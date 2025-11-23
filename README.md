@@ -56,9 +56,16 @@ O sistema busca informações relevantes no Código da Estrada e fornece uma res
 - **Citações precisas** dos artigos, números e alíneas
 - **Seção de fontes** no final da resposta
 
-![Consulta - Carta de Condução - Parte 1](client/public/IB_ESTRADA_RESPONDE/02%20-%20P1%20-%20P1%20-%20Esqueci%20Carta%20de%20Conducao.png)
-
-![Consulta - Carta de Condução - Parte 2](client/public/IB_ESTRADA_RESPONDE/02%20-%20P1%20-%20P2%20-%20Esqueci%20Carta%20de%20Conducao.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
+  <div style="flex: 1; min-width: 300px; max-width: 48%;">
+    <img src="client/public/IB_ESTRADA_RESPONDE/02%20-%20P1%20-%20P1%20-%20Esqueci%20Carta%20de%20Conducao.png" alt="Consulta - Carta de Condução - Parte 1" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 8px;"><em>Parte 1</em></p>
+  </div>
+  <div style="flex: 1; min-width: 300px; max-width: 48%;">
+    <img src="client/public/IB_ESTRADA_RESPONDE/02%20-%20P1%20-%20P2%20-%20Esqueci%20Carta%20de%20Conducao.png" alt="Consulta - Carta de Condução - Parte 2" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 8px;"><em>Parte 2</em></p>
+  </div>
+</div>
 
 **Detalhes da Resposta:**
 - Artigo 127 do Código da Estrada
@@ -79,11 +86,20 @@ O sistema fornece uma resposta abrangente sobre limites de velocidade e multas r
 - **Diferenças** entre dentro e fora das localidades
 - **Citações completas** de todos os artigos relevantes
 
-![Consulta - Multas - Parte 1](client/public/IB_ESTRADA_RESPONDE/03%20-%20P2%20-%20P1%20-%20Multas%20Dentro%20e%20Fora%20das%20Localidades.png)
-
-![Consulta - Multas - Parte 2](client/public/IB_ESTRADA_RESPONDE/03%20-%20P2%20-%20P2%20-%20Multas%20Dentro%20e%20Fora%20das%20Localidades.png)
-
-![Consulta - Multas - Parte 3](client/public/IB_ESTRADA_RESPONDE/03%20-%20P2%20-%20P3%20-%20Multas%20Dentro%20e%20Fora%20das%20Localidades.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
+  <div style="flex: 1; min-width: 300px; max-width: 32%;">
+    <img src="client/public/IB_ESTRADA_RESPONDE/03%20-%20P2%20-%20P1%20-%20Multas%20Dentro%20e%20Fora%20das%20Localidades.png" alt="Consulta - Multas - Parte 1" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 8px;"><em>Parte 1</em></p>
+  </div>
+  <div style="flex: 1; min-width: 300px; max-width: 32%;">
+    <img src="client/public/IB_ESTRADA_RESPONDE/03%20-%20P2%20-%20P2%20-%20Multas%20Dentro%20e%20Fora%20das%20Localidades.png" alt="Consulta - Multas - Parte 2" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 8px;"><em>Parte 2</em></p>
+  </div>
+  <div style="flex: 1; min-width: 300px; max-width: 32%;">
+    <img src="client/public/IB_ESTRADA_RESPONDE/03%20-%20P2%20-%20P3%20-%20Multas%20Dentro%20e%20Fora%20das%20Localidades.png" alt="Consulta - Multas - Parte 3" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <p style="text-align: center; font-size: 0.9em; color: #666; margin-top: 8px;"><em>Parte 3</em></p>
+  </div>
+</div>
 
 **Características da Resposta:**
 - Organização em seções claras
