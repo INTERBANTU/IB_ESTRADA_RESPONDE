@@ -503,9 +503,113 @@ class NewProvider(BaseLLMProvider):
 - Website: https://interbantu.com
 - GitHub: https://github.com/INTERBANTU
 
-## 📄 Licença
+## 📄 Licença e Direitos de Uso
 
-Este projeto está licenciado sob a Apache License 2.0.
+### Licença
+
+Este projeto está licenciado sob a **Apache License 2.0**. O texto completo da licença está disponível no arquivo [LICENSE](LICENSE) deste repositório.
+
+### Direitos e Permissões
+
+#### ✅ O que você PODE fazer:
+
+1. **Uso Comercial e Não-Comercial**
+   - Você pode usar este software para fins comerciais ou não-comerciais
+   - Não há restrições quanto ao tipo de uso
+
+2. **Modificação**
+   - Você pode modificar o código-fonte conforme suas necessidades
+   - Pode criar trabalhos derivados baseados neste projeto
+
+3. **Distribuição**
+   - Você pode distribuir o software original ou modificado
+   - Pode distribuir em formato binário ou código-fonte
+
+4. **Uso Privado**
+   - Você pode usar o software em ambientes privados ou internos
+   - Pode instalar e executar em quantos servidores desejar
+
+5. **Patente**
+   - Você recebe uma licença de patente para usar qualquer patente detida pelos contribuidores
+
+#### ⚠️ O que você DEVE fazer:
+
+1. **Manter Avisos de Licença**
+   - Você DEVE incluir uma cópia da licença Apache 2.0 em qualquer distribuição
+   - Você DEVE manter todos os avisos de copyright e atribuição originais
+
+2. **Atribuição**
+   - Você DEVE dar crédito apropriado aos autores originais
+   - Você DEVE indicar se fez alterações no código
+
+3. **Arquivo NOTICE**
+   - Se o projeto incluir um arquivo NOTICE, você DEVE incluí-lo nas distribuições
+
+4. **Documentar Modificações**
+   - Você DEVE documentar claramente quaisquer modificações feitas no código
+
+#### ❌ O que você NÃO PODE fazer:
+
+1. **Uso de Marcas Registradas**
+   - Você NÃO PODE usar as marcas registradas, nomes comerciais ou logotipos da InterBantu sem permissão explícita
+   - O uso do nome "InterBantu" ou "IB - EstradaResponde" como marca requer autorização
+
+2. **Remover Avisos**
+   - Você NÃO PODE remover avisos de copyright ou licença do código original
+
+3. **Responsabilidade**
+   - O software é fornecido "COMO ESTÁ", sem garantias de qualquer tipo
+   - Os desenvolvedores não são responsáveis por danos decorrentes do uso do software
+
+### Isenção de Responsabilidade
+
+**IMPORTANTE:** Este software é fornecido "COMO ESTÁ", sem garantias expressas ou implícitas de qualquer tipo, incluindo, mas não limitado a:
+
+- Garantias de comercialização
+- Garantias de adequação a um propósito específico
+- Garantias de não violação de direitos de terceiros
+
+Em nenhuma circunstância os autores ou detentores dos direitos autorais serão responsáveis por quaisquer reivindicações, danos ou outras responsabilidades, seja em ação de contrato, delito ou de outra forma, decorrentes de, fora de ou em conexão com o software ou o uso ou outras negociações no software.
+
+### Limitações de Responsabilidade
+
+Os desenvolvedores e a InterBantu não serão responsáveis por:
+
+- Perda de dados ou informações
+- Interrupção de negócios
+- Perda de lucros ou receitas
+- Danos indiretos, incidentais ou consequenciais
+- Problemas de segurança decorrentes do uso do software
+
+### Uso de Dados e Privacidade
+
+- O software processa documentos PDF enviados pelos usuários
+- Os dados são armazenados localmente no servidor onde o software é executado
+- A InterBantu não coleta, armazena ou acessa dados dos usuários
+- É responsabilidade do administrador do sistema garantir a segurança e privacidade dos dados
+
+### Propriedade Intelectual
+
+- O código-fonte é licenciado sob Apache License 2.0
+- As marcas "InterBantu" e "IB - EstradaResponde" são propriedade da InterBantu
+- O uso de marcas e logotipos requer autorização prévia por escrito
+
+### Contribuições
+
+Ao contribuir para este projeto, você concorda que suas contribuições serão licenciadas sob a Apache License 2.0.
+
+### Contato para Questões Legais
+
+Para questões sobre licenciamento, uso comercial ou permissões especiais, entre em contato:
+
+- **Website**: [https://interbantu.com](https://interbantu.com)
+- **GitHub**: [https://github.com/INTERBANTU](https://github.com/INTERBANTU)
+
+### Texto Completo da Licença
+
+O texto completo da Apache License 2.0 está disponível em:
+- [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+- Arquivo [LICENSE](LICENSE) neste repositório
 
 ---
 
